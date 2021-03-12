@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Warehouse App</string>
+    <string name="button_addStock">Add products to stock</string>
+    <string name="hint_stockName">Name</string>
+    <string name="hint_stockQuantity">Quantity </string>
+    <string name="hint_palletType">Pallet Type </string>
+    <string name="hint_palletNumber">Number of pallets </string>
+    <string name="hint_country">Country </string>
+    <string name="menu_addStock">Add</string>
+    <string name="menu_cancelStock">Cancel</string>
+    <string name="enter_stock_title"> Please enter stock </string>
+    <string name="save_stock"> Save Stock </string>
+    <string name="menu_deleteStock">Delete Stock</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
